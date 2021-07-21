@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2811729-2a58-49eb-82c1-01f48b2fa903" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1vculbgn394ZvT5S0bFwH0VqWMJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2811729-2a58-49eb-82c1-01f48b2fa903" name="Default Changelist" comment="" />
+      <created>1626873851816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626873851816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="254" key="#Notifications" timestamp="1626876487470">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="552" y="254" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1626876487470" />
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626876262386">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1626876262386" />
+    <state x="380" y="185" key="AndroidCreateResourceDirectoryDialog" timestamp="1626875954429">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="185" key="AndroidCreateResourceDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1626875954429" />
+    <state x="659" y="255" key="AndroidCreateXmlResourceDialog" timestamp="1626876203953">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="659" y="255" key="AndroidCreateXmlResourceDialog/0.0.1600.860@0.0.1600.860" timestamp="1626876203953" />
+    <state x="650" y="328" key="Github.ShareDialog" timestamp="1626875777343">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="650" y="328" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1626875777343" />
+    <state width="778" height="212" key="GridCell.Tab.0.bottom" timestamp="1626876417934">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="212" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1626876417934" />
+    <state width="778" height="212" key="GridCell.Tab.0.center" timestamp="1626876417934">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="212" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1626876417934" />
+    <state width="778" height="212" key="GridCell.Tab.0.left" timestamp="1626876417934">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="212" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1626876417934" />
+    <state width="778" height="212" key="GridCell.Tab.0.right" timestamp="1626876417934">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="212" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1626876417934" />
+  </component>
+</project>
